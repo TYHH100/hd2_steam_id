@@ -1,0 +1,7 @@
+__pycache__/
+.research/
+.venv/
+build/
+reports/live-*.json
+reports/live-*.txt
+dist/
